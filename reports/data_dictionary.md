@@ -1,5 +1,41 @@
 # Mutual Funds Analytics - Data Dictionary
 
+## Project Overview
+End-to-end Mutual Fund Analytics pipeline built using Python, Pandas, SQLite and SQL.
+
+## Features
+
+- Data Ingestion
+- Live NAV Fetch using MFAPI
+- Data Cleaning & Validation
+- SQLite Star Schema
+- Analytical SQL Queries
+- Data Dictionary
+
+## Tech Stack
+
+- Python
+- Pandas
+- SQLAlchemy
+- SQLite
+- Git & GitHub
+
+## Folder Structure
+
+data/
+reports/
+scripts/
+sql/
+
+## Deliverables
+
+- 10 Cleaned CSVs
+- SQLite Database
+- Schema Design
+- SQL Queries
+- Data Dictionary
+
+
 ## dim_fund
 
 | Column | Data Type | Description |
